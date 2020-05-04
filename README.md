@@ -1,5 +1,5 @@
 # CIFAR-10
-* Contains 10 categories of images
+Contains 10 categories of images
  * airplane
  * automobile
  * bird
